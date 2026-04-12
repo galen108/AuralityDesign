@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="BlueHost" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc; _notes; fonts; img; normalize.css-master; .iml" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="BlueHost">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/aurality-design.com" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
